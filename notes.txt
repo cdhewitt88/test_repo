@@ -1,0 +1,4 @@
+git clone https://github.com/cdhewitt88/test_repo.git
+date > date.txt
+git commit -am "date update"
+git push
